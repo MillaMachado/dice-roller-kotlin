@@ -7,7 +7,7 @@
 O app final ficará assim:
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/1547002/184563623-80a271cc-a16c-490f-a49b-bb8f56eb3ae1.jpg">
+<img height="20%" width="20%" src="https://user-images.githubusercontent.com/1547002/184563623-80a271cc-a16c-490f-a49b-bb8f56eb3ae1.jpg">
 </div>
 
 O que esse código ensina:
